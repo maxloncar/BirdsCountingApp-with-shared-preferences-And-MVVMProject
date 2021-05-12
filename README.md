@@ -2,4 +2,5 @@
 Razvoj mobilnih aplikacija 
 
 BirdsCountingApp - Zadatak 1
+
 MVVMProject - Zadatak 2

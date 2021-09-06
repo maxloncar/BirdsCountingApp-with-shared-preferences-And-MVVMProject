@@ -1,4 +1,4 @@
-# BirdCountingApp & MVVMProject
+# BirdsCountingApp with shared preferences & MVVMProject
 Razvoj mobilnih aplikacija (Mobile Development)
 
 BirdsCountingApp - Zadatak 1

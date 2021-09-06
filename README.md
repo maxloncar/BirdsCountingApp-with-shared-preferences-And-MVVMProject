@@ -1,5 +1,5 @@
-# RMA-LV4
-Razvoj mobilnih aplikacija 
+# BirdCountingApp & MVVMProject
+Razvoj mobilnih aplikacija (Mobile Development)
 
 BirdsCountingApp - Zadatak 1
 
